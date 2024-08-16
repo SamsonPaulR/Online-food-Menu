@@ -1,5 +1,6 @@
 html{
     scroll-behavior: smooth;
+    display:flex;
 }
 .newnav{
     text-align:right; 
